@@ -1,0 +1,8 @@
+Commands
+- to run project
+	npm run dev
+- to run server
+	npx json-server --watch db.json --port 3001
+
+- NOTE: to show data on table first time, we need to open db.js file 
+	and press CTRL+S to make api watch data and send it to CustomerTable.
